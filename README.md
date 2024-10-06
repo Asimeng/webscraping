@@ -7,6 +7,5 @@
 <br>
 
 <b>Implementation: </b> The program is written in R. The Rselenium and rvest packages were used for web scraping components and the gmailr package was used to send emails
-<img>src="scrape_fnb.gif"</img>
 </p>
-
+<img src="scrape_fnb.gif">
